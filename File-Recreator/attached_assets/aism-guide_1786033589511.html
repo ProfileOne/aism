@@ -1,0 +1,1040 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>AISM — All India Stakeholder's Meet · Aawaz 2.0</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link href="https://fonts.googleapis.com/css2?family=Anton&family=IBM+Plex+Mono:wght@400;500;600;700&family=Source+Serif+4:ital,opsz,wght@0,8..60,400;0,8..60,600;0,8..60,700;1,8..60,400;1,8..60,600&display=swap" rel="stylesheet">
+<style>
+
+  :root{
+    --black:#0a0a0a;
+    --white:#fdfcf9;
+    --paper:#f2efe6;
+    --red:#e8341c;
+    --orange:#ff6a13;
+    --grey:#6b6a63;
+    --line:#0a0a0a;
+    --shadow-off: 7px 7px 0;
+    --shadow-off-sm: 4px 4px 0;
+  }
+
+  *{box-sizing:border-box; margin:0; padding:0;}
+
+  html{scroll-behavior:smooth;}
+
+  body{
+    background:var(--paper);
+    color:var(--black);
+    font-family:'Source Serif 4', serif;
+    font-size:16px;
+    line-height:1.6;
+    -webkit-font-smoothing:antialiased;
+  }
+
+  ::selection{ background:var(--red); color:var(--white); }
+
+  .display{
+    font-family:'Anton', sans-serif;
+    text-transform:uppercase;
+    letter-spacing:0.01em;
+    line-height:0.92;
+  }
+
+  .mono{
+    font-family:'IBM Plex Mono', monospace;
+    text-transform:uppercase;
+    letter-spacing:0.08em;
+  }
+
+  a{ color:inherit; }
+
+  img{max-width:100%; display:block;}
+
+  .wrap{
+    max-width:1240px;
+    margin:0 auto;
+    padding:0 40px;
+  }
+
+  /* ============ HAZARD STRIP (signature motif) ============ */
+  .hazard{
+    height:14px;
+    background:repeating-linear-gradient(
+      -45deg,
+      var(--black),
+      var(--black) 14px,
+      var(--orange) 14px,
+      var(--orange) 28px
+    );
+  }
+  .hazard.red{
+    background:repeating-linear-gradient(
+      -45deg,
+      var(--black),
+      var(--black) 14px,
+      var(--red) 14px,
+      var(--red) 28px
+    );
+  }
+
+  /* ============ MARQUEE ============ */
+  .marquee{
+    background:var(--black);
+    color:var(--white);
+    overflow:hidden;
+    white-space:nowrap;
+    padding:9px 0;
+    border-bottom:4px solid var(--black);
+  }
+  .marquee-track{
+    display:inline-block;
+    animation:scroll 28s linear infinite;
+  }
+  .marquee span{
+    font-family:'IBM Plex Mono', monospace;
+    font-size:12px;
+    letter-spacing:0.18em;
+    text-transform:uppercase;
+    padding:0 22px;
+  }
+  .marquee span.accent{ color:var(--orange); }
+  @keyframes scroll{
+    0%{ transform:translateX(0); }
+    100%{ transform:translateX(-50%); }
+  }
+
+  /* ============ NAV ============ */
+  header.site{
+    background:var(--white);
+    border-bottom:4px solid var(--black);
+    position:sticky;
+    top:0;
+    z-index:100;
+  }
+  .nav{
+    display:flex;
+    align-items:center;
+    justify-content:space-between;
+    padding:18px 40px;
+    max-width:1240px;
+    margin:0 auto;
+  }
+  .logo{
+    font-family:'Anton', sans-serif;
+    font-size:22px;
+    text-transform:uppercase;
+    display:flex;
+    align-items:baseline;
+    gap:8px;
+  }
+  .logo .ver{ color:var(--red); }
+  .navlinks{
+    display:flex;
+    align-items:center;
+    gap:34px;
+    font-family:'IBM Plex Mono', monospace;
+    font-size:12px;
+    letter-spacing:0.1em;
+    text-transform:uppercase;
+  }
+  .navlinks a{
+    text-decoration:none;
+    position:relative;
+    padding-bottom:3px;
+  }
+  .navlinks a:hover{ color:var(--red); }
+  .btn-register{
+    background:var(--red);
+    color:var(--white);
+    border:3px solid var(--black);
+    padding:10px 20px;
+    font-weight:700;
+    box-shadow:var(--shadow-off-sm) var(--black);
+    transition:transform .12s ease, box-shadow .12s ease;
+    text-decoration:none;
+  }
+  .btn-register:hover{
+    transform:translate(2px,2px);
+    box-shadow:2px 2px 0 var(--black);
+  }
+  @media(max-width:900px){
+    .navlinks{ display:none; }
+  }
+
+  /* ============ LAYOUT SHELL: index rail + content ============ */
+  .shell{
+    display:grid;
+    grid-template-columns:230px 1fr;
+    gap:0;
+    max-width:1240px;
+    margin:0 auto;
+    align-items:start;
+  }
+  .rail{
+    position:sticky;
+    top:76px;
+    padding:64px 24px 40px 40px;
+    border-right:3px solid var(--black);
+    min-height:100vh;
+  }
+  .rail-label{
+    font-family:'IBM Plex Mono', monospace;
+    font-size:11px;
+    letter-spacing:0.18em;
+    color:var(--grey);
+    margin-bottom:18px;
+  }
+  .rail-list{ list-style:none; }
+  .rail-list li{ margin-bottom:16px; }
+  .rail-list a{
+    display:flex;
+    align-items:baseline;
+    gap:10px;
+    text-decoration:none;
+    font-family:'IBM Plex Mono', monospace;
+    font-size:12.5px;
+    letter-spacing:0.02em;
+    color:var(--black);
+    line-height:1.4;
+  }
+  .rail-list .num{ color:var(--red); font-weight:700; }
+  .rail-list a:hover .num{ color:var(--orange); }
+  @media(max-width:900px){
+    .shell{ grid-template-columns:1fr; }
+    .rail{ display:none; }
+  }
+
+  .content{ padding:0; }
+
+  section{
+    padding:70px 48px;
+    border-bottom:3px solid var(--black);
+  }
+  @media(max-width:640px){
+    section{ padding:48px 20px; }
+    .wrap{ padding:0 20px; }
+  }
+
+  .eyebrow{
+    display:inline-block;
+    background:var(--red);
+    color:var(--white);
+    font-family:'IBM Plex Mono', monospace;
+    font-size:11px;
+    letter-spacing:0.16em;
+    padding:6px 12px;
+    border:3px solid var(--black);
+    box-shadow:var(--shadow-off-sm) var(--black);
+    margin-bottom:22px;
+  }
+  .eyebrow.orange{ background:var(--orange); }
+  .eyebrow.black{ background:var(--black); }
+
+  h2.display{
+    font-size:clamp(34px,4.6vw,58px);
+  }
+  h3.display{
+    font-size:clamp(22px,2.6vw,30px);
+  }
+
+  /* ============ HERO ============ */
+  .hero{
+    padding:80px 48px 60px;
+    border-bottom:3px solid var(--black);
+  }
+  .hero-grid{
+    display:grid;
+    grid-template-columns:1.5fr 1fr;
+    gap:50px;
+    align-items:start;
+  }
+  @media(max-width:900px){ .hero-grid{ grid-template-columns:1fr; } }
+
+  .hero h1{
+    font-size:clamp(42px,6.4vw,84px);
+    margin-bottom:26px;
+  }
+  .hero-lede{
+    font-size:20px;
+    max-width:640px;
+    color:#2a2a26;
+  }
+  .hero-lede mark{
+    background:none;
+    color:var(--black);
+    background-image:linear-gradient(var(--orange),var(--orange));
+    background-repeat:no-repeat;
+    background-size:100% 10px;
+    background-position:0 88%;
+  }
+
+  .stamp{
+    border:4px double var(--red);
+    color:var(--red);
+    font-family:'IBM Plex Mono', monospace;
+    font-weight:700;
+    font-size:12px;
+    letter-spacing:0.14em;
+    padding:14px 16px;
+    display:inline-block;
+    transform:rotate(-4deg);
+    text-align:center;
+  }
+
+  .quote-block{
+    border-left:6px solid var(--orange);
+    padding:6px 0 6px 26px;
+    font-style:italic;
+    font-size:19px;
+    color:#1c1c1a;
+  }
+  .quote-block::before{
+    content:"“";
+    font-family:'Anton',sans-serif;
+    font-style:normal;
+    font-size:60px;
+    color:var(--orange);
+    display:block;
+    line-height:0.4;
+    margin-bottom:6px;
+  }
+
+  /* ============ ASYMMETRIC FEATURE GRID ============ */
+  .feature-grid{
+    display:grid;
+    grid-template-columns:repeat(6,1fr);
+    grid-auto-rows:minmax(120px,auto);
+    gap:22px;
+    margin-top:36px;
+  }
+  .block{
+    border:3px solid var(--black);
+    background:var(--white);
+    box-shadow:var(--shadow-off) var(--black);
+    padding:26px;
+    transition:transform .15s ease, box-shadow .15s ease;
+  }
+  .block:hover{
+    transform:translate(-3px,-3px);
+    box-shadow:10px 10px 0 var(--black);
+  }
+  .block h4{
+    font-family:'IBM Plex Mono',monospace;
+    text-transform:uppercase;
+    font-size:14px;
+    letter-spacing:0.06em;
+    margin-bottom:10px;
+    display:flex;
+    align-items:center;
+    gap:10px;
+  }
+  .block p{ font-size:15px; color:#2a2a26; }
+  .block.fill-red{ background:var(--red); color:var(--white); }
+  .block.fill-red p{ color:#ffe9e5; }
+  .block.fill-orange{ background:var(--orange); color:var(--black); }
+  .block.fill-black{ background:var(--black); color:var(--white); }
+  .block.fill-black p{ color:#d8d8d2; }
+  .block.tilt{ transform:rotate(-1.2deg); }
+  .block.tilt:hover{ transform:rotate(-1.2deg) translate(-3px,-3px); }
+
+  .span-4{ grid-column:span 4; }
+  .span-3{ grid-column:span 3; }
+  .span-2{ grid-column:span 2; }
+  .span-6{ grid-column:span 6; }
+  @media(max-width:900px){
+    .feature-grid{ grid-template-columns:1fr; }
+    .span-2,.span-3,.span-4,.span-6{ grid-column:span 1; }
+  }
+
+  .icon-mark{
+    width:26px; height:26px;
+    border:2.5px solid currentColor;
+    display:inline-flex;
+    align-items:center;
+    justify-content:center;
+    font-size:13px;
+    flex:none;
+  }
+
+  /* ============ HALFTONE STRIP ============ */
+  .halftone{
+    background-image: radial-gradient(var(--black) 1.4px, transparent 1.4px);
+    background-size: 10px 10px;
+    opacity:0.5;
+    height:34px;
+    margin:0;
+  }
+
+  /* ============ TABS (procedure / points / frameworks) ============ */
+  .tabbar{
+    display:flex;
+    flex-wrap:wrap;
+    gap:0;
+    border:3px solid var(--black);
+    margin-top:34px;
+    box-shadow:var(--shadow-off) var(--black);
+  }
+  .tabbtn{
+    flex:1;
+    min-width:150px;
+    background:var(--white);
+    border:none;
+    border-right:3px solid var(--black);
+    padding:16px 14px;
+    font-family:'IBM Plex Mono',monospace;
+    font-size:12.5px;
+    letter-spacing:0.06em;
+    text-transform:uppercase;
+    cursor:pointer;
+    font-weight:600;
+  }
+  .tabbtn:last-child{ border-right:none; }
+  .tabbtn.active{ background:var(--black); color:var(--white); }
+  .tabbtn:not(.active):hover{ background:var(--paper); }
+
+  .tabpanel{ display:none; margin-top:28px; }
+  .tabpanel.active{ display:block; }
+
+  .panel-inner{
+    display:grid;
+    grid-template-columns:1fr 1fr;
+    gap:26px;
+  }
+  @media(max-width:800px){ .panel-inner{ grid-template-columns:1fr; } }
+
+  .rule-item{
+    border-left:4px solid var(--red);
+    padding:4px 0 4px 18px;
+    margin-bottom:22px;
+  }
+  .rule-item h5{
+    font-family:'IBM Plex Mono',monospace;
+    font-size:13px;
+    letter-spacing:0.05em;
+    text-transform:uppercase;
+    margin-bottom:6px;
+  }
+  .rule-item p{ font-size:15px; color:#2a2a26; }
+
+  /* ============ REPRESENT SECTION (varied block sizes, big numerals) ============ */
+  .rep-grid{
+    display:grid;
+    grid-template-columns:repeat(12,1fr);
+    gap:22px;
+    margin-top:36px;
+  }
+  .rep-item{
+    border:3px solid var(--black);
+    background:var(--white);
+    padding:30px 26px;
+    position:relative;
+    box-shadow:var(--shadow-off) var(--black);
+  }
+  .rep-item .bignum{
+    font-family:'Anton',sans-serif;
+    font-size:64px;
+    color:var(--paper);
+    -webkit-text-stroke:2px var(--black);
+    line-height:0.8;
+    position:absolute;
+    top:14px;
+    right:18px;
+    opacity:0.9;
+  }
+  .rep-item h4{
+    font-family:'IBM Plex Mono',monospace;
+    font-size:14px;
+    letter-spacing:0.04em;
+    text-transform:uppercase;
+    max-width:80%;
+    margin-bottom:14px;
+  }
+  .rep-item p{ font-size:15px; color:#2a2a26; }
+  .rep-a{ grid-column:span 7; }
+  .rep-b{ grid-column:span 5; background:var(--black); color:var(--white); }
+  .rep-b p{ color:#d8d8d2; }
+  .rep-b .bignum{ color:#1c1c1c; -webkit-text-stroke:2px var(--orange); }
+  .rep-c{ grid-column:span 5; background:var(--orange); }
+  .rep-c .bignum{ -webkit-text-stroke:2px var(--white); color:#ff8c3f; }
+  .rep-d{ grid-column:span 7; }
+  @media(max-width:900px){
+    .rep-grid{ grid-template-columns:1fr; }
+    .rep-a,.rep-b,.rep-c,.rep-d{ grid-column:span 1; }
+  }
+
+  /* ============ ACCORDION (speech frameworks) ============ */
+  .accordion{ margin-top:34px; }
+  .acc-item{
+    border:3px solid var(--black);
+    margin-bottom:-3px;
+    background:var(--white);
+  }
+  .acc-head{
+    width:100%;
+    text-align:left;
+    background:var(--white);
+    border:none;
+    padding:20px 24px;
+    display:flex;
+    align-items:center;
+    justify-content:space-between;
+    cursor:pointer;
+    gap:20px;
+  }
+  .acc-head:hover{ background:var(--paper); }
+  .acc-head .fw-name{
+    font-family:'Anton',sans-serif;
+    font-size:20px;
+    text-transform:uppercase;
+  }
+  .acc-head .fw-desc{
+    font-family:'Source Serif 4', serif;
+    font-size:14px;
+    color:var(--grey);
+    display:none;
+  }
+  @media(min-width:700px){
+    .acc-head{ align-items:baseline; }
+    .acc-head .fw-desc{ display:block; flex:1; }
+  }
+  .acc-plus{
+    font-family:'IBM Plex Mono',monospace;
+    font-size:22px;
+    font-weight:700;
+    flex:none;
+    width:28px;
+    text-align:center;
+    transition:transform .18s ease;
+  }
+  .acc-item.open .acc-plus{ transform:rotate(45deg); color:var(--red); }
+  .acc-item.open .acc-head{ background:var(--black); color:var(--white); }
+  .acc-item.open .fw-desc{ color:#cfcfc8; }
+
+  .acc-body{
+    max-height:0;
+    overflow:hidden;
+    transition:max-height .28s ease;
+    background:var(--paper);
+    border-top:0px solid var(--black);
+  }
+  .acc-item.open .acc-body{ border-top:3px solid var(--black); }
+  .acc-body-inner{
+    padding:26px 28px 30px;
+  }
+  .acc-body-inner .label{
+    font-family:'IBM Plex Mono',monospace;
+    font-size:11px;
+    letter-spacing:0.14em;
+    color:var(--red);
+    margin-bottom:10px;
+  }
+  .acc-example{
+    font-style:italic;
+    font-size:16px;
+    border-left:4px solid var(--orange);
+    padding-left:18px;
+  }
+
+  /* ============ FOOTER ============ */
+  footer{
+    background:var(--black);
+    color:var(--white);
+    padding:60px 48px 0;
+  }
+  .footer-top{
+    display:flex;
+    justify-content:space-between;
+    flex-wrap:wrap;
+    gap:30px;
+    padding-bottom:40px;
+    border-bottom:3px solid #2a2a2a;
+    max-width:1240px;
+    margin:0 auto;
+  }
+  .footer-top .display{ font-size:26px; }
+  .also-in{
+    font-family:'IBM Plex Mono',monospace;
+    font-size:11px;
+    letter-spacing:0.16em;
+    color:var(--orange);
+    margin-bottom:16px;
+  }
+  .guide-links{
+    display:flex;
+    gap:14px;
+    flex-wrap:wrap;
+  }
+  .guide-links a{
+    border:2.5px solid var(--white);
+    padding:10px 16px;
+    text-decoration:none;
+    font-family:'IBM Plex Mono',monospace;
+    font-size:12px;
+    letter-spacing:0.05em;
+    text-transform:uppercase;
+    transition:all .15s ease;
+  }
+  .guide-links a:hover{ background:var(--red); border-color:var(--red); }
+  .foot-bottom{
+    max-width:1240px;
+    margin:0 auto;
+    padding:24px 0;
+    display:flex;
+    justify-content:space-between;
+    font-family:'IBM Plex Mono',monospace;
+    font-size:11px;
+    color:#8a8a84;
+    letter-spacing:0.06em;
+  }
+
+  /* focus visibility */
+  a:focus-visible, button:focus-visible{
+    outline:3px solid var(--orange);
+    outline-offset:2px;
+  }
+
+  @media (prefers-reduced-motion: reduce){
+    .marquee-track{ animation:none; }
+    *{ transition:none !important; }
+  }
+
+</style>
+</head>
+<body>
+
+<div class="hazard"></div>
+
+<div class="marquee">
+  <div class="marquee-track">
+    <span>PROCEDURAL BRIEF · AISM 2026</span>
+    <span class="accent">EB RULING IS FINAL</span>
+    <span>AAWAAZ 2.0 · MAIDEN EDITION</span>
+    <span>INDIAN SUMMIT FOUNDATION</span>
+    <span>PROCEDURAL BRIEF · AISM 2026</span>
+    <span class="accent">EB RULING IS FINAL</span>
+    <span>AAWAAZ 2.0 · MAIDEN EDITION</span>
+    <span>INDIAN SUMMIT FOUNDATION</span>
+  </div>
+</div>
+
+<header class="site">
+  <div class="nav">
+    <div class="logo">AAWAAZ <span class="ver">2.0</span></div>
+    <nav class="navlinks">
+      <a href="#">HOME</a>
+      <a href="#">ABOUT</a>
+      <a href="#">GUIDES</a>
+      <a href="#">FAQ</a>
+      <a href="#">CONTACT</a>
+    </nav>
+    <a href="#" class="btn-register">REGISTER →</a>
+  </div>
+</header>
+
+<div class="shell">
+
+  <aside class="rail">
+    <div class="rail-label">BRIEFING INDEX</div>
+    <ul class="rail-list">
+      <li><a href="#distinction"><span class="num">01</span> The AISM Distinction</a></li>
+      <li><a href="#procedure"><span class="num">02</span> Operational Procedure</a></li>
+      <li><a href="#points"><span class="num">03</span> Interventions &amp; Chits</a></li>
+      <li><a href="#strategy"><span class="num">04</span> Stakeholder Strategy</a></li>
+      <li><a href="#frameworks"><span class="num">05</span> Rhetorical Frameworks</a></li>
+    </ul>
+  </aside>
+
+  <div class="content">
+
+    <!-- HERO -->
+    <section class="hero" id="top">
+      <div class="hero-grid">
+        <div>
+          <span class="eyebrow">PROCEDURAL BRIEF · FILE NO. AISM/26</span>
+          <h1 class="display">All India<br>Stakeholder's<br>Meet</h1>
+          <p class="hero-lede">
+            Digital governance, misinformation, and the limits of free expression don't get settled by diplomatic
+            niceties. AISM runs on <mark>portfolios, leverage, and coalitions</mark> — not flags and formal
+            protocol. This is the file on how it actually works.
+          </p>
+        </div>
+        <div style="display:flex; flex-direction:column; gap:26px; align-items:flex-start;">
+          <span class="stamp">EB RULING<br>CANNOT BE APPEALED</span>
+          <div class="quote-block">
+            Success here isn't a geographical bloc. It's an unlikely cross-sector coalition that forces a
+            directive through a fractured room.
+          </div>
+        </div>
+      </div>
+    </section>
+
+    <!-- 01 DISTINCTION -->
+    <section id="distinction">
+      <span class="eyebrow orange">01 · CONTEXT</span>
+      <h2 class="display">What Makes AISM<br>Different</h2>
+      <p style="max-width:640px; margin-top:18px; font-size:17px; color:#2a2a26;">
+        AISM dismantles the standard Model UN format on purpose. You don't arrive as a sovereign nation with a
+        general foreign policy. You arrive as one entity inside India's socio-political fabric — a ministry
+        bureaucrat, a tech executive, a creator, an advocate — with a narrow set of interests to protect.
+      </p>
+
+      <div class="feature-grid">
+        <div class="block fill-black span-3 tilt">
+          <h4><span class="icon-mark">◆</span> PORTFOLIO, NOT FLAG</h4>
+          <p>Your identity is your portfolio — a ministry, a platform, a movement. Every speech, vote, and
+          alliance has to trace back to that portfolio's actual interests and constraints.</p>
+        </div>
+        <div class="block span-3">
+          <h4><span class="icon-mark">§</span> FLUID RULES</h4>
+          <p>There's no fixed constitutional script. The Executive Board writes and rewrites the Rules of
+          Procedure to fit the crisis at hand. Their ruling is final.</p>
+        </div>
+        <div class="block fill-red span-4">
+          <h4><span class="icon-mark">⛓</span> COALITIONS OVER BLOCS</h4>
+          <p>Directives don't pass on argument alone. They pass when portfolios with nothing obvious in common
+          find a shared stake and hold the line together.</p>
+        </div>
+        <div class="block fill-orange span-2">
+          <h4><span class="icon-mark">✦</span> NO SCRIPTS</h4>
+          <p>The Board has read every brief in the room. What they haven't read is your specific take.</p>
+        </div>
+      </div>
+    </section>
+
+    <div class="halftone"></div>
+
+    <!-- 02 PROCEDURE -->
+    <section id="procedure">
+      <span class="eyebrow">02 · OPERATIONAL PROCEDURE</span>
+      <h2 class="display">Running The Room</h2>
+      <p style="max-width:640px; margin-top:18px; font-size:17px; color:#2a2a26;">
+        Every session, motion, and document you'll touch — from the opening statement to a signed directive.
+      </p>
+
+      <div class="tabbar" role="tablist">
+        <button class="tabbtn active" data-tab="t1">Sessions</button>
+        <button class="tabbtn" data-tab="t2">Caucusing</button>
+        <button class="tabbtn" data-tab="t3">Documents</button>
+      </div>
+
+      <div class="tabpanel active" id="t1">
+        <div class="panel-inner">
+          <div>
+            <div class="rule-item">
+              <h5>Attendance &amp; Opening Statements</h5>
+              <p>The Board calls the roll, then each portfolio states its core position on the day's regulatory
+              question. Give the room direction across the whole issue — not one narrow talking point.</p>
+            </div>
+            <div class="rule-item">
+              <h5>Public Session</h5>
+              <p>On the record, in view of press and observers. Every line is subject to public critique. Rules
+              of Procedure are enforced strictly here.</p>
+            </div>
+          </div>
+          <div>
+            <div class="rule-item">
+              <h5>Private Session</h5>
+              <p>Fully off the record. Used to negotiate real positions candidly, build backroom alliances, or
+              say the thing you can't say in public.</p>
+            </div>
+            <div class="rule-item">
+              <h5>Closing the Floor</h5>
+              <p>The Board yields the floor back after every speech and directs the room to questions. Nothing
+              is assumed — every transition is called.</p>
+            </div>
+          </div>
+        </div>
+      </div>
+
+      <div class="tabpanel" id="t2">
+        <div class="panel-inner">
+          <div>
+            <div class="rule-item">
+              <h5>Moderated Caucus</h5>
+              <p>Formal debate, run from the speakers' list. Attack the policy and the portfolio's position —
+              never the delegate.</p>
+            </div>
+          </div>
+          <div>
+            <div class="rule-item">
+              <h5>Unmoderated Caucus</h5>
+              <p>Delegates stay in the room. A motion needs a stated duration and reason, passes by simple
+              majority, and the Board can shorten it or rule it out of order without appeal. This is where
+              directives actually get drafted.</p>
+            </div>
+          </div>
+        </div>
+      </div>
+
+      <div class="tabpanel" id="t3">
+        <div class="panel-inner">
+          <div>
+            <div class="rule-item">
+              <h5>Directive</h5>
+              <p>AISM's equivalent of a resolution — a concrete regulatory action, structured into Context
+              Clauses and Action Clauses, needing a minimum number of sponsors set by the dais.</p>
+            </div>
+          </div>
+          <div>
+            <div class="rule-item">
+              <h5>Joint Communiqué</h5>
+              <p>A non-binding statement of shared intent between two or more portfolios. Signals an alliance
+              without committing to a full Directive. Requires dais approval to enter the record.</p>
+            </div>
+          </div>
+        </div>
+      </div>
+    </section>
+
+    <!-- 03 POINTS & CHITS -->
+    <section id="points">
+      <span class="eyebrow black">03 · INTERVENTIONS</span>
+      <h2 class="display">Points &amp; Chits</h2>
+
+      <div class="tabbar" role="tablist" style="margin-top:34px;">
+        <button class="tabbtn active" data-tab="p1">Points</button>
+        <button class="tabbtn" data-tab="p2">Chits</button>
+      </div>
+
+      <div class="tabpanel active" id="p1">
+        <div class="panel-inner">
+          <div>
+            <div class="rule-item">
+              <h5>Point of Personal Privilege</h5>
+              <p>Rise if something impairs your ability to participate. Can interrupt a speaker only if they're
+              inaudible — otherwise wait for the speech to end.</p>
+            </div>
+            <div class="rule-item">
+              <h5>Point of Order</h5>
+              <p>Rise to challenge a factual error in a speech. Quote the incorrect statement, then state the
+              correct fact. Cannot interrupt.</p>
+            </div>
+            <div class="rule-item">
+              <h5>Point of Parliamentary Inquiry</h5>
+              <p>Ask the Board to clarify a rule or procedural step. Cannot interrupt a speaker.</p>
+            </div>
+          </div>
+          <div>
+            <div class="rule-item">
+              <h5>Point of Information (POI)</h5>
+              <p>Question or challenge the speaker after their speech ends. Best delegates use a POI to dismantle
+              the argument with a sharp fact or precedent, then request a follow-up if unsatisfied.</p>
+            </div>
+            <div class="rule-item">
+              <h5>Right of Reply</h5>
+              <p>Rise if your personal integrity — not your portfolio's position — was directly attacked. Must be
+              raised immediately after the speech ends. The Board's ruling is final.</p>
+            </div>
+          </div>
+        </div>
+      </div>
+
+      <div class="tabpanel" id="p2">
+        <div class="panel-inner">
+          <div>
+            <div class="rule-item">
+              <h5>1 · Formal Chit to the Board</h5>
+              <p>Addressed directly to the EB. Use for analysis or points you want considered for your scoring,
+              or content that ran over your speaking time.</p>
+            </div>
+          </div>
+          <div>
+            <div class="rule-item">
+              <h5>2 · Delegate-to-Delegate</h5>
+              <p>Exchanged directly, no Board involvement. The primary tool for lobbying and building cross-sector
+              consensus — no fixed format required.</p>
+            </div>
+            <div class="rule-item">
+              <h5>3 · Chit via the Board</h5>
+              <p>Addressed to another delegate but routed through the EB, who reads it before forwarding. Used
+              for formal written Points of Information.</p>
+            </div>
+          </div>
+        </div>
+      </div>
+    </section>
+
+    <div class="hazard red" style="margin:0;"></div>
+
+    <!-- 04 STRATEGY -->
+    <section id="strategy">
+      <span class="eyebrow orange">04 · STAKEHOLDER STRATEGY</span>
+      <h2 class="display">Representing Your<br>Portfolio Well</h2>
+
+      <div class="rep-grid">
+        <div class="rep-item rep-a">
+          <span class="bignum">01</span>
+          <h4>Know Your Bottom Line</h4>
+          <p>Before you research the agenda, understand your portfolio's brief. Your position has to be
+          defensible against your own strategic vulnerabilities — not just factually accurate.</p>
+        </div>
+        <div class="rep-item rep-b">
+          <span class="bignum">02</span>
+          <h4>Seek Precedent</h4>
+          <p>Whatever action you propose has to survive scrutiny. Ground arguments in real regulatory precedent
+          and prior rulings — not assertion.</p>
+        </div>
+        <div class="rep-item rep-c">
+          <span class="bignum">03</span>
+          <h4>Know When to Break the Line</h4>
+          <p>The strongest delegates aren't mouthpieces. If a better solution sits slightly outside your
+          portfolio's default position, argue for it — and explain the logic to the Board.</p>
+        </div>
+        <div class="rep-item rep-d">
+          <span class="bignum">04</span>
+          <h4>Original Analysis, Not Copied Positions</h4>
+          <p>The Board has read every portfolio brief in the room. What they haven't read is your specific take
+          on this specific regulatory question. Before every speech, ask: could any other delegate holding my
+          portfolio give this exact argument? If yes — push further.</p>
+        </div>
+      </div>
+    </section>
+
+    <!-- 05 FRAMEWORKS -->
+    <section id="frameworks" style="border-bottom:none;">
+      <span class="eyebrow">05 · RHETORICAL FRAMEWORKS</span>
+      <h2 class="display">Speech Frameworks</h2>
+      <p style="max-width:640px; margin-top:18px; font-size:17px; color:#2a2a26;">
+        Four structures, each worked through on the same live issue: <em>regulating synthetic media and
+        content moderation</em>. Pick the shape that fits your argument — fill it with original analysis, not
+        recited fact.
+      </p>
+
+      <div class="accordion">
+        <div class="acc-item open">
+          <button class="acc-head">
+            <span class="fw-name">Premise → Analysis → Example</span>
+            <span class="fw-desc">State the core premise, stress-test it, ground it in precedent.</span>
+            <span class="acc-plus">+</span>
+          </button>
+          <div class="acc-body" style="max-height:260px;">
+            <div class="acc-body-inner">
+              <div class="label">EXAMPLE — SAFE HARBOR &amp; CENSORSHIP</div>
+              <p class="acc-example">"Our premise is that Section 79 Safe Harbor is non-negotiable. Analysis:
+              forcing platforms to pre-screen content turns every intermediary into a private censor. Example:
+              in Shreya Singhal, the Court held that intermediaries should act on lawful orders — not
+              unilateral judgment."</p>
+            </div>
+          </div>
+        </div>
+
+        <div class="acc-item">
+          <button class="acc-head">
+            <span class="fw-name">Problem → Solution → Benefits</span>
+            <span class="fw-desc">Quantify the problem, propose one mechanism, name who gains.</span>
+            <span class="acc-plus">+</span>
+          </button>
+          <div class="acc-body">
+            <div class="acc-body-inner">
+              <div class="label">EXAMPLE — SYNTHETIC MEDIA REGULATION</div>
+              <p class="acc-example">"The problem: synthetic media outpaces our 72-hour takedown window.
+              Solution: mandatory cryptographic provenance tags under the 2026 IT Rules. Benefits: the state
+              gets traceability, citizens get protection, platforms keep Safe Harbor through automated
+              compliance — one mechanism, three wins."</p>
+            </div>
+          </div>
+        </div>
+
+        <div class="acc-item">
+          <button class="acc-head">
+            <span class="fw-name">Past → Present → Future</span>
+            <span class="fw-desc">Use precedent to frame the present failure, then project forward.</span>
+            <span class="acc-plus">+</span>
+          </button>
+          <div class="acc-body">
+            <div class="acc-body-inner">
+              <div class="label">EXAMPLE — PLATFORM LIABILITY</div>
+              <p class="acc-example">"In the past, liability law assumed a handful of publishers. Today, one
+              platform hosts more speech in an hour than a newsroom did in a decade — yet we're still applying
+              1990s intermediary rules to a 2026 information system. Left unchanged, that gap only widens."</p>
+            </div>
+          </div>
+        </div>
+
+        <div class="acc-item">
+          <button class="acc-head">
+            <span class="fw-name">What → So What → Now What</span>
+            <span class="fw-desc">Define the issue precisely, establish the stakes, demand action.</span>
+            <span class="acc-plus">+</span>
+          </button>
+          <div class="acc-body">
+            <div class="acc-body-inner">
+              <div class="label">EXAMPLE — MISINFORMATION VELOCITY</div>
+              <p class="acc-example">"What: false claims now outpace verified corrections by a factor of six.
+              So what: this isn't a content problem, it's an institutional trust problem. Now what: this
+              committee needs a directive mandating real-time correction-labeling for any post crossing a
+              defined virality threshold."</p>
+            </div>
+          </div>
+        </div>
+      </div>
+    </section>
+
+  </div>
+</div>
+
+<footer>
+  <div class="footer-top">
+    <div>
+      <div class="display">AAWAAZ 2.0</div>
+      <p style="max-width:340px; color:#aaa9a2; margin-top:10px; font-size:14px;">
+        A publication of The Indian Summit Foundation. Procedural briefs for every AISM committee, updated
+        each edition.
+      </p>
+    </div>
+    <div>
+      <div class="also-in">ALSO IN THIS FILE SERIES</div>
+      <div class="guide-links">
+        <a href="#">← AISM Overview</a>
+        <a href="#">Portfolio Research Guide</a>
+        <a href="#">UNA-USA Procedure</a>
+        <a href="#">First MUN Guide</a>
+      </div>
+    </div>
+  </div>
+  <div class="foot-bottom">
+    <span>© 2026 THE INDIAN SUMMIT FOUNDATION</span>
+    <span>FILE AISM/26 · CLASSIFICATION: DELEGATE BRIEFING</span>
+  </div>
+</footer>
+
+<script>
+  // Tabs
+  document.querySelectorAll('.tabbar').forEach(bar=>{
+    const btns = bar.querySelectorAll('.tabbtn');
+    btns.forEach(btn=>{
+      btn.addEventListener('click', ()=>{
+        const target = btn.getAttribute('data-tab');
+        const panelGroup = bar.parentElement.querySelectorAll('.tabpanel');
+        btns.forEach(b=>b.classList.remove('active'));
+        btn.classList.add('active');
+        panelGroup.forEach(p=>{
+          p.classList.toggle('active', p.id === target);
+        });
+      });
+    });
+  });
+
+  // Accordion
+  document.querySelectorAll('.acc-item').forEach(item=>{
+    const head = item.querySelector('.acc-head');
+    const body = item.querySelector('.acc-body');
+    head.addEventListener('click', ()=>{
+      const isOpen = item.classList.contains('open');
+      // close all in this accordion
+      item.parentElement.querySelectorAll('.acc-item').forEach(i=>{
+        i.classList.remove('open');
+        i.querySelector('.acc-body').style.maxHeight = null;
+      });
+      if(!isOpen){
+        item.classList.add('open');
+        body.style.maxHeight = body.scrollHeight + 'px';
+      }
+    });
+  });
+</script>
+
+</body>
+</html>

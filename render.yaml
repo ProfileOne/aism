@@ -1,0 +1,22 @@
+services:
+  - type: web
+    name: aism-api
+    env: node
+    buildCommand: npm install && cd artifacts/api-server && npm install && npm run build
+    startCommand: cd artifacts/api-server && npm run start:prod
+    envVars:
+      - key: PORT
+        value: 5000
+      - key: NODE_ENV
+        value: production
+      - key: SESSION_SECRET
+        generateValue: true
+      - key: DATABASE_URL
+        fromDatabase:
+          name: aism-db
+          property: connectionString
+
+databases:
+  - name: aism-db
+    databaseName: file_recreator
+    user: aism_user

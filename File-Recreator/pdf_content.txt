@@ -1,0 +1,919 @@
+--- PAGE 1 ---
+A
+A
+a
+i
+s
+ALL INDIA STAKEHOLDER’S MEET
+BACKGROUND GUIDE
+THE INDIAN SUMMIT
+FOUNDATIONAAWAAZ 2.0
+19
+09
+01
+M
+13
+A
+
+
+--- PAGE 2 ---
+THE INDIAN SUMMIT
+FOUNDATIONAAWAAZ  2.0
+ALL INDIA STAKEHOLDER’S MEET
+Agenda: Regulating misinformation,
+hate speech and content moderation
+while preserving freedom of
+expression.
+
+
+--- PAGE 3 ---
+THE INDIAN SUMMIT
+FOUNDATIONAAWAAZ  2.0
+A NOTE FROM THE EXECUTIVE BOARD
+Dear Stakeholders,
+At the very beginning, on behalf of the Executive Board, I would like to warmly
+welcome you to the AISM (All India Stakeholders’ Meet) at AAWAAZ 2.0 to be held on 8 th
+and 9 th August, 2026.
+AISM is an unusual committee in that everyone is likely to be both right and wrong in
+equal measure – and it turns out that deciding which is which is not always easy.
+We are not looking for delegates who can memorize, research and present exactly what
+their portfolio says, regurgitating it with greater volume and passion at the hustings. A
+search engine can do the first task and a megaphone the second. What we want to see is
+understanding of why your stakeholder believes what it believes – what interests
+underpin its positions, its capabilities and constraints, and what dangers arise when its
+principles are taken to their logical – if unpalatable – conclusion
+Your portfolio is your brief, not your script. Know its politics, its prejudices, its power
+and its weaknesses. Know when to stand your ground and when to compromise, for
+flexibility is not a virtue, nor is dogmatism.
+This guide is deliberately brief. It is intended as a beginning, not an end. The biggest
+threat to a delegate’s preparation is the illusion that the research is finished once the
+background guide has been read. Get digging. Ask questions. Follow up. Follow the
+issues through their implications, institutions, technologies, laws and interests.
+The Executive Board will be looking for presence of mind, analytical rigour, political
+awareness and strategic nous. We want you to interrogate the obvious, to question the
+conventional wisdom, to ask the awkward questions. Public policy has a disturbing
+tendency to become more complicated the less one knows about it.
+Let one see great things from the valley small things from the peak. 
+Welcome to AISM,
+Vishwajeet Kachawah
+ModeratorDaksh Wadekar
+Deputy ModeratorDaksh Wadekar
+Deputy ModeratorDaksh Wadekar
+Deputy ModeratorDaksh Wadekar
+Deputy ModeratorDaksh Wadekar
+Deputy ModeratorDaksh Wadekar
+Deputy ModeratorVishwajeet Kachawah
+ModeratorVishwajeet Kachawah
+ModeratorVishwajeet Kachawah
+ModeratorVishwajeet Kachawah
+ModeratorVishwajeet Kachawah
+Moderator
+
+
+--- PAGE 4 ---
+THE INDIAN SUMMIT
+FOUNDATIONAAWAAZ  2.0
+SECTION 1: OVERVIEW OF THE COMMITTEE
+The All India Stakeholders Meet (AISM) is a simulation of a multi-
+stakeholder deliberative forum in which delegates from governmental,
+political, media, digital, civil society and other agencies deliberate on
+matters of national significance. Unlike traditional MUN committees,
+delegates do not represent countries but a spectrum of stakeholders.
+Delegates are expected to research their stakeholder’s portfolio,
+interests, obligations and resolutions passed previously by them.
+At AAWAAZ 2.0, AISM will operate under Unconventional Rules of
+Procedure, as determined by the Executive Board, to promote robust
+debate and discussion, including negotiations between stakeholders.
+Delegates should keep in mind their stakeholder’s interests and work
+towards evolving pragmatic and balanced solutions.
+The agenda for this session - “Regulating Misinformation, Hate Speech
+and Content Moderation while Preserving Freedom of Expression” seeks
+to address one of the most pertinent issues of our times: The regulation
+and moderation of digital space. Delegates will deliberate on issues
+concerning misinformation, online hate speech, censorship, regulation,
+moderation, and related issues while grappling with the challenge of
+preserving freedom of speech and expression, and by extension
+individual freedoms and democratic society itself.ALL INDIA STAKEHOLDER’S MEET ALL INDIA STAKEHOLDER’S MEET ALL INDIA STAKEHOLDER’S MEET
+4
+
+--- PAGE 5 ---
+THE INDIAN SUMMIT
+FOUNDATIONAAWAAZ  2.0
+SECTION 2: INTRODUCTION TO THE AGENDA
+The digital regulatory environment in the Republic of India underwent a
+significant transformation between 2021 and August 2026. India is today
+the world’s largest connected democracy, with almost a billion Internet
+users. As a result, the digital space has become the new arena for
+political, economic, and social contestation.
+Moreover, the scale has produced deluge effects as disinformation and
+abuse have taken on new levels and forms. “Synthetic information”
+presents a serious set of challenges for electoral integrity and public
+discourse. The manipulation of the social media space by both state and
+non-state actors has led to artificial financial market fluctuations. The
+core of this committee's agenda revolves around three intersecting
+pillars:
+1. Misinformation and Synthetic Media: How does a democratic state
+control extremely realistic computer generated "fake news" and
+"deepfakes" without the creation of a "Ministry of Truth" that
+dictates what is and is not real?
+2. Hate Speech and Algorithmic Amplification: Colonial-era penal codes
+were written for physical mobs. How do we update these laws to
+regulate algorithmic amplification of hate speech, dog-whistling, and
+bots that circumvent definitions of incitement to violence?
+3.Content Moderation and Intermediary Liability: Shouldn't massive
+digital platforms be treated as passive "post offices" that are entirely
+immune from liability (safe harbor), or do they act as publishers
+that should be held criminally responsible for any unlawful content
+that appears on their platforms during an extremely compressed
+time window?
+5
+
+--- PAGE 6 ---
+THE INDIAN SUMMIT
+FOUNDATIONAAWAAZ  2.0
+SECTION 3: CONSTITUTIONAL LAW 
+Before you can discuss even one IT Rule or penal code, you have to know
+the Constitution of India. Whatever resolution or directions you propose
+before this committee must stand the test of constitutionality because if
+not, the Supreme Court will declare it void.
+Article 19(1)(a) Article 19(1)(a) Article 19(1)(a) 
+Article 19(1)(a) of the Constitution guarantees all citizens the right to
+freedom of speech and expression, which is the cornerstone of Indian
+democracy. However, it is a qualified right, which means that the right
+is available to every citizen subject to reasonable restrictions. The
+Constitution allows the state to impose reasonable restrictions on the
+exercise of this right under certain specific grounds mentioned in
+Article 19(2). These restrictions can be imposed only if they fall under
+the specific grounds mentioned in this article. The following are the
+grounds on which the right of citizens to freedom of speech and
+expression can be reasonably restricted:
+Sovereignty and integrity of India
+Security of the State
+Friendly relations with foreign States
+Public order
+Decency or morality
+Contempt of court
+Defamation
+Incitement to an offense
+The Public Order Threshold : Courts have consistently held that 'public
+order' is not a synonym for 'law and order'. A ban on communication for
+reasons of public order can only be imposed if a direct link (proximate
+causation) between the communication and an imminent domestic
+disturbance is established. 
+The Misinformation Trap: this committee faces one persistent and
+especially serious friction point: “fake news”/”falsity” is not explicitly
+mentioned in Article 19(2). 
+6
+
+--- PAGE 7 ---
+THE INDIAN SUMMIT
+FOUNDATIONAAWAAZ  2.0
+SECTION 3: CONSTITUTIONAL LAW 
+Therefore, state actions to censor misinformation on the grounds of it
+being objectively false suffer significantly diminished legitimacy under
+the present wording. Objective falsehoods, such as those found in satire
+or entirely benign rumors, do not logically have a “chilling effect” on the
+right to free speech or the rights of “the people so to speak of the public
+order and of the security of the state”. Therefore, delegates arguing that
+the state has a right to fact-check sources of speech must provide
+sufficient evidentiary basis for why a particular instance of false
+speech falls under 19(2)
+SECTION 4: COURT CASES & CASE STUDIES
+To win a debate in this committee, you must cite case law. The Supreme
+Court is the ultimate referee, and understanding their historical rulings
+allows you to predict how they will rule on your committee's proposals.
+Here are the mandatory precedents you must know in deep detail:
+Shreya Singhal v. Union of India (2015) Shreya Singhal v. Union of India (2015) Shreya Singhal v. Union of India (2015) Shreya Singhal v. Union of India (2015) 
+This is the most famous digital rights case in Indian history. The Court
+evaluated the Information Technology Act, 2000, specifically examining
+state censorship powers versus free speech.
+1. Striking Down Section 66A: The court was against the Section 66A as
+it was unconstitutionally vague. They held that the term offensive is
+very wide and that the drafters cannot possibly define it. The court
+said that the very nature of such a law makes people refrain from
+their legitimate rights under the Constitution and that it creates a
+chilling effect on freedom of speech and expression.
+2. Upholding Section 69A: On the other hand, the Court did not strike
+down the government’s power to block a site altogether (Section 69A).
+It upheld the order because it is reasonable with an appropriate
+process: the request for blocking must be approved by a high-level
+committee, include written findings, and include a hearing of the
+content creator, if possible.
+7
+
+--- PAGE 8 ---
+THE INDIAN SUMMIT
+FOUNDATIONAAWAAZ  2.0
+SECTION 4: COURT CASES & CASE STUDIES
+The Crux for Delegates (Section 79): The Court laid down “Safe Harbor.”
+Specifically, the Court read down Section 79(3)(b) and said that an
+intermediary (social media) could lose the exemption as provided
+under Section 79 only if it failed “to remove or disable access to the
+content upon receipt of a court order or upon receipt of a notification
+from a specified government agency.” This implies that the social
+media platform cannot act unilaterally to decide whether a particular
+communication is illegal based merely on a report by a random user.
+Pravasi Bhalai Sangathan v. Union of India (2014) Pravasi Bhalai Sangathan v. Union of India (2014) Pravasi Bhalai Sangathan v. Union of India (2014)
+The issue of political hate speech was taken up by a Public Interest
+Litigation that sought to have guidelines framed by the Court to counter
+such speeches. The Supreme Court declined to legislate, however, citing
+the separation of powers, but provided a foundational passage for
+current jurisprudence on the subject. According to the Court, hate
+speech harms the dignity of the targeted group(s) and makes way for a
+climate in which discrimination and violence can occur. The Court
+directed the Law Commission to draft a report on the subject that led to
+Report 267 (2017).
+Amish Devgan v. Union of India (2021) Amish Devgan v. Union of India (2021) Amish Devgan v. Union of India (2021) 
+TV anchor Amish Devgan made derogatory comments about revered Sufi
+saint Khwaja Moinuddin Chishti on live TV which led to multiple FIRs
+being filed in various states. The court denied his request to cancel the
+FIRs.
+1.“Who” is speaking (a “person of influence” such as a TV commentator
+or elected representative has more legal weight and responsibility
+than an ordinary citizen),
+2.“What” is being said (the content and its historical context),
+3.The “Audience” (who is listening). Moreover, the speech of the
+historically oppressed saying what they want is more
+constitutionally protected than the speeches of the oppressors.
+8
+
+--- PAGE 9 ---
+THE INDIAN SUMMIT
+FOUNDATIONAAWAAZ  2.0
+SECTION 4: COURT CASES & CASE STUDIES
+Patricia Mukhim v. State of Meghalaya (2021) Patricia Mukhim v. State of Meghalaya (2021) Patricia Mukhim v. State of Meghalaya (2021)
+Journalist Patricia Mukhim criticed Meghalaya Chief Minister and police
+for not taking action against non-tribal youths who were beaten up by
+tribals and was booked for promoting enmity and giving false
+information to the police. The Supreme Court dismissed the FIR
+completely. The Apex Court held that "..The fervent plea made by the
+Appellant for protection of non-tribals as also his criticism of the
+attitude of the concerned authorities cannot, by any stretch of
+imagination, be viewed as containing any hate speech..". The Court
+ruling shows that asking authorities to take cognizance of the problem
+cannot be termed as hate speech just because it makes authorities
+uncomfortable.
+Ashwini Kumar Upadhyay v. State of NCT of Delhi (April 2026)
+During 2022-24, the Supreme Court was very active in directing police to
+file suo-moto FIRs against hate speech and in directing the monitoring
+of rallies. Activists filed thirteen clubbed writ petitions to get a
+continuing mandamus to the police to act proactively. One of the
+petitions, by Brinda Karat, sought prosecution of BJP leaders Anurag
+Thakur and Parvesh Verma for some of their speeches in 2020 before the
+Delhi riots about “traitors” that could have instigated the riots.
+Justices Vikram Nath and Sandeep Mehta gave a very important
+doctrinal shift by taking on the position that the law was not silent in
+this area, that the IPC/BNS provisions such as 153A and 295A were not
+insufficient and that the Court should not be in the business of creating
+new guidelines and/or directions, and hence was not required to act
+upon such matters.
+9Ashwini Kumar Upadhyay v. State of NCT of Delhi (April 2026) Ashwini Kumar Upadhyay v. State of NCT of Delhi (April 2026)
+
+--- PAGE 10 ---
+THE INDIAN SUMMIT
+FOUNDATIONAAWAAZ  2.0
+SECTION 4: COURT CASES & CASE STUDIES
+The Court said it would not entertain contempt proceedings against the
+police for not registering FIRs suo-moto, observing that for "hesitation",
+it must be proved that police had knowledge of the matter and wilfully
+refrained from taking action and held that citizens must first approach
+the police, and that the order was upholding the acquittal of Anurag
+Thakur and Parvesh Verma as no cognizable offence was made out.
+The Government and Bureaucrat blocs can use this to kill any future
+attempts to create new broad law speech laws. They simply say that the
+Supreme Court is satisfied with the current laws and it's an issue of
+enforcement, not of laws.
+Kaushal Kishor v. State of U.P. (2023) Kaushal Kishor v. State of U.P. (2023) Kaushal Kishor v. State of U.P. (2023) Kaushal Kishor v. State of U.P. (2023)
+Decided in January 2023, this is a landmark judgment, which
+significantly amends the very foundation of the Constitution. For
+decades, it was held that only the Government (State) could be sued for
+violating fundamental rights enshrined in Part III of the Constitution.
+This ruling by the Constitution Bench of Supreme Court (4:1), however,
+provides that Fundamental Rights (Articles 19 and 21) can be enforced
+against private and non-state bodies – horizontally – as well. Therefore,
+in cases concerning violation of free speech, the delegated authority will
+have a chance to invoke that a major Tech Corporation could be directly
+(not vicariously) accountable for free speech violation of an Indian
+citizen. (It also clarifies that the free speech of a Minister cannot be
+attributed to the Government, thus answering the opposite side of the
+question.)
+Ranveer Allahbadia v. Union of India (2025) Ranveer Allahbadia v. Union of India (2025) Ranveer Allahbadia v. Union of India (2025) Ranveer Allahbadia v. Union of India (2025)
+In the month of February 2025, videos of comedian Samay Raina's
+YouTube show India's Got Latent went viral for featuring Ranveer
+Allahbadia (also known as BeerBiceps) making sexually suggestive
+remarks about parents. FIRs were filed in Guwahati and Mumbai citing
+BNS obscenity provisions, the Cinematograph Act and the Indecent
+Representation of Women Act (IRWA).
+10
+
+--- PAGE 11 ---
+THE INDIAN SUMMIT
+FOUNDATIONAAWAAZ  2.0
+SECTION 4: COURT CASES & CASE STUDIES
+On 18 February 2025, the Supreme Court ordered interim protection for
+Allahbadia against arrest, but imposed a strange "prior restraint":
+Allahbadia and the accused could not post new content until the court
+decides on their future, which it called a sign of a "perverted mind."
+The ban was relaxed in March 2025, allowing him to continue his
+podcast on 'livelihood' grounds (he provides for 280 employees), but
+with a reminder that he should adhere to the 'morality and decency'
+guidelines.
+The court itself expressed that there was a "vacuum in law" related to
+digital content. Two days later, it seems that the MIB issued a very
+aggressive advisory to the OTT platforms which led to the introduction
+of CECs as mentioned earlier. (The case again went back to the court in
+mid-2026 when the court directed Samay Raina to pay a sum of ₹3 lakh
+as compensation for not withdrawing remarks directed at a person
+living with Spinal Muscular Atrophy.)
+The Government bloc can argue that since creators clearly fail to self-
+regulate decency, and since the Courts are forced to impose draconian
+bail conditions, the state must pass statutory laws to civilize the
+influencer-space.
+ X Corp v. Union of India (September 2025, Karnataka HC)  X Corp v. Union of India (September 2025, Karnataka HC)  X Corp v. Union of India (September 2025, Karnataka HC)  X Corp v. Union of India (September 2025, Karnataka HC)
+The Government has created a centralized "Sahyog Portal" to allow faster
+takedown notices from courts to platforms directly from the
+government, which circumvents the Section 69A blocking orders due
+process and secrecy protections.
+X Corp (Twitter) filed a suit against the portal challenging its legality
+after Twitter received a number of takedown requests from the Railway
+Ministry, which was investigating a stampede that resulted in the death
+of a crowd in a New Delhi railway station.
+11
+
+--- PAGE 12 ---
+AAWAAZ  2.0 THE INDIAN SUMMIT
+FOUNDATION
+SECTION 4.1: HOW TO USE THESE CASES
+Reading a case is not the same as being able to argue against it. For each
+case, a list of takeaways to argue against it has been provided, as well
+as a set of questions that can be asked to structure a arguments.
+Shreya Singhal / Section 79 Safe Harbor Principle Shreya Singhal / Section 79 Safe Harbor Principle Shreya Singhal / Section 79 Safe Harbor Principle
+Takeaways:
+1. Platforms only lose safe harbor if they ignore a court order or
+government notification, not in response to a user complaint
+.
+2. This was specifically designed to prevent platforms from becoming
+private censors.
+3. This places the responsibility to decide what is illegal on the court
+system and not on the companies' trust and safety teams.
+4. It is the basis for all other safe-harbor arguments in this
+committee, and a point of contention for all others.
+Questions to raise:
+1. If your platform is removing content in response to user
+complaints, are you not already going beyond what the law requires
+and becoming a private censor?SECTION 4: COURT CASES & CASE STUDIES
+On September 24, 2025, Justice M. Nagaprasanna ruled in favor of the
+Sahyog Portal. The Judge concluded that Section 69 a and 79(3)(b) are
+both completely different. Disappointingly for Silicon Valley, the Judge
+held that foreign multinational corporations are “artificial juristic
+entities” which do not possess the Article 19 rights in India which is a
+“charter of rights conferred upon citizens only” and that social media
+“cannot be left in a state of anarchic freedom.”
+X Corp filed a writ appeal on 14th November 2025, which is pending
+before a Division Bench. But as of now, foreign tech giants face an
+insurmountable litigation hurdle in Indian courts.
+12
+
+
+--- PAGE 13 ---
+AAWAAZ  2.0 THE INDIAN SUMMIT
+FOUNDATION
+SECTION 4.1: HOW TO USE THESE CASES
+Pravasi Bhalai Sangathan v. Union of India (2014) Pravasi Bhalai Sangathan v. Union of India (2014) Pravasi Bhalai Sangathan v. Union of India (2014)
+Takeaways:
+ 1. This is the Court's working definition of hate speech: speech that
+causes discrimination or violence towards a group based on identity.
+ 2. The Court declined to act on the issue, arguing it fell outside its
+jurisdiction, and tasked the Law Commission with drafting legislation.
+ 3. The 267th Law Commission Report (2017) is currently the closest
+thing India has to hate speech legislation, but has not been passed by
+Parliament.
+ 4. The Court views hate speech as a societal ill, not just an offence
+against individuals.
+Questions to raise:
+ 1. If the Court's working definition of hate speech is based on
+discrimination and violence, why are FIRs not being filed in cases of
+individual discrimination or violence?
+ 2. The recommendations of the 267th Law Commission Report have been
+pending for nearly a decade – whose fault is this?
+ 3. Is it not the responsibility of this committee to draft legislation, as
+the Court has asked, or is it outside our jurisdiction?2. Does the risk of being held liable for user content outweigh the
+protection of Section 79?
+3. Should intermediaries be required to make public how many
+takedowns were in response to court orders or government
+notification versus private complaints (e.g. Sahyog)?
+4.If platforms are already "over-complying" with the law to avoid
+liability, is Section 79 not already failing its purpose?
+13
+
+
+--- PAGE 14 ---
+AAWAAZ  2.0 THE INDIAN SUMMIT
+FOUNDATION
+SECTION 4.1: HOW TO USE THESE CASES
+Amish Devgan v. Union of India (2021) Amish Devgan v. Union of India (2021) Amish Devgan v. Union of India (2021)
+Takeaways:
+ 1. Context is key – the same words directed at different audiences, by
+different people, with different intent, may have different meanings
+and consequences.
+ 2. A person of "prestige" (politician, celebrity, media personality) has
+greater responsibility than an ordinary citizen.
+ 3. Marginalized communities have more leeway to speak about their
+lived experience, and the Court will side with them.
+ 4. The Court refused to quash the FIR despite agreeing with the context
+defense, arguing context could aggravate an offence rather than
+mitigate it.
+Questions to raise:
+ 1. Should not a comedian with 10 million YouTube subscribers be held to
+a higher standard than an anonymous Twitter account with 50
+followers?
+ 2. If marginalized communities have greater leeway to discuss their
+lived experience, how can platforms apply this standard consistently?
+ 3. Is not the "who is speaking" test inherently discriminatory, as it can
+be used to justify disproportionate punishment of critics of the
+government?
+ 4. Who decides who belongs to a "prestigious" profession, and who
+decides which communities are "marginalized"? Could this not be used
+to suppress dissent? 4. Does the Court's definition of hate speech as a societal ill rather than
+an offence against individuals not render it unenforceable?
+14
+
+
+--- PAGE 15 ---
+AAWAAZ  2.0 THE INDIAN SUMMIT
+FOUNDATION
+SECTION 4.1: HOW TO USE THESE CASES
+Patricia Mukhim v. State of Meghalaya (2021) Patricia Mukhim v. State of Meghalaya (2021) Patricia Mukhim v. State of Meghalaya (2021)
+Takeaways:
+ 1. Criticism of the government's inaction does not constitute hate
+speech, even if it indirectly criticizes a group.
+ 2. The Court ruled in favor of a "call for justice," not an "attack on a
+community."
+ 3. This is one of the few cases in this list where the Court ruled in
+favor of free speech and against a state FIR.
+ 4. The Court acknowledged that FIRs are often used to suppress
+legitimate criticism of the government.
+Questions to raise:
+ 1. If criticism of the government's inaction does not constitute hate
+speech, why are journalists and creators still being booked for FIRs?
+ 2. Is there not a difference between "calling out" a community's
+inaction and "attacking" a community?
+ 3. Should this not set a higher standard for police FIRs, since they are
+often used to suppress criticism of the government?
+ 4. Does not this ruling contradict Amish Devgan? Does not the "call for
+justice" fall under the same context test?
+Ashwini Kumar Upadhyay v. Union of India (April 2026) Ashwini Kumar Upadhyay v. Union of India (April 2026) Ashwini Kumar Upadhyay v. Union of India (April 2026)
+Takeaways:
+ 1. The Supreme Court ruled that there is no legislative vacuum –
+existing laws are sufficient to deal with hate speech. (153A, 295A, BNS)
+ 2. The Court ruled against police inaction by refusing to hold them in
+contempt of court.
+15
+
+
+--- PAGE 16 ---
+AAWAAZ  2.0 THE INDIAN SUMMIT
+FOUNDATION
+SECTION 4.1: HOW TO USE THESE CASES
+ 3. This brings to an end the era of proactive judiciary intervention
+(2022-2024).
+ 4. Politicians Anurag Thakur and Parvesh Verma were able to evade
+action for their role in the 2020 riots due to the Court's acceptance of the
+lower judiciary's "no cognizable offence" ruling.
+ 5. This ruling is the most relevant for this committee, as it was made
+just months ago.
+Questions to raise:
+ 1. If the Supreme Court ruled that there is no legislative vacuum, on
+what grounds can any member of this committee argue otherwise?
+ 2. Does not the Court's acceptance of the "approach police first" policy
+ignore the fact that police inaction is the problem?
+ 3. Does not the Court's reversal of the High Court's legal opinion on
+sanction, while accepting its "no cognizable offence" ruling, show
+doublethink?
+ 4. Does not this ruling effectively bury the issue of hate speech for the
+next decade?
+Kaushal Kishor v. State of U.P. (2023) Kaushal Kishor v. State of U.P. (2023) Kaushal Kishor v. State of U.P. (2023)
+Takeaways:
+ 1. Enforcement of fundamental rights (Articles 19 and 21) now extends
+to private bodies and individuals – not just the State.
+ 2. This could have massive implications for regulating Big Tech.
+ 3. A Minister's personal speech cannot be attributed to the government.
+ 4. The ruling was made by a 4:1 majority – it is not universally
+accepted.
+16
+
+
+--- PAGE 17 ---
+AAWAAZ  2.0 THE INDIAN SUMMIT
+FOUNDATION
+SECTION 4.1: HOW TO USE THESE CASES
+Questions to raise:
+ 1. If citizens can now enforce fundamental rights against private
+companies and individuals, should not Big Tech be held to account for
+their actions?
+ 2. Could this not lead to weaponization – could not ordinary citizens use
+this to sue platforms for every moderation decision?
+ 3. If a Minister's personal speech cannot be attributed to the
+government, does not the government evade responsibility for its
+officials' actions?
+ 4. Could this ruling lead to more litigation against Big Tech? Could this
+ruling lead to more litigation against the government?
+Ranveer Allahbadia v. Union of India (2025) Ranveer Allahbadia v. Union of India (2025) Ranveer Allahbadia v. Union of India (2025)
+Takeaways:
+ 1. The Court used a bail condition to effectively regulate content –
+banning all future content by Allahbadia.
+ 2. The Court acknowledged a "vacuum in law" for regulating digital
+content – this is what led to MIB's OTT advisory two days later.
+ 3. The restriction was later modified on grounds of livelihood (280
+employees depend on his show).
+ 4. The case was cited again in 2026, when Samay Raina was fined for
+not following the Court's orders.
+Questions to raise:
+ 1. Is regulation by way of a bail condition not an unpredictable and
+subjective standard?
+ 2. If the Court acknowledges a "vacuum in law," should not Parliament
+act to fill it?
+17
+
+
+--- PAGE 18 ---
+AAWAAZ  2.0 THE INDIAN SUMMIT
+FOUNDATION
+SECTION 4.1: HOW TO USE THESE CASES
+ 3. Does not the modification on grounds of livelihood set a dangerous
+precedent?
+ 4. Does not the 2026 contempt ruling show that the Court can enforce
+its own orders?
+X Corp v. Union of India (Sept 2025, Karnataka HC) X Corp v. Union of India (Sept 2025, Karnataka HC) X Corp v. Union of India (Sept 2025, Karnataka HC)
+Takeaways:
+ 1. A foreign entity cannot claim the protection of Article 19 in India.
+ 2. The Sahyog Portal, which routes takedown requests through Section
+79(3)(b) rather than Section 69A, was ruled to be legal.
+ 3. The Court ruled that social media cannot be "left to the anarchic
+freedom of the marketplace of ideas."
+ 4. X Corp's appeal is currently pending before a Division Bench – this is
+not the final ruling.
+Questions to raise:
+ 1. If foreign entities cannot claim the protection of Article 19, can they
+be ordered to remove content without following due process?
+ 2. Does not the use of Sahyog Portal to route takedown requests through
+Section 79(3)(b) bypass the protections of Section 69a?
+ 3. Should not citizens' rights to free speech be protected even if the
+entity hosting their content cannot claim those rights?
+ 4. Is not the entire basis of Section 79(3)(b) – and therefore of the
+Sahyog Portal – the "anarchic freedom" of the marketplace of ideas?
+18
+
+
+--- PAGE 19 ---
+THE INDIAN SUMMIT
+FOUNDATIONAAWAAZ  2.0
+SECTION 5: STATUTORY BODIES
+This is the hard law of your committee, so you better know it, it tells us
+exactly what is allowed and what isn't and when it happens or the
+penalties.
+The IT Amendment Rules, 2026 The IT Amendment Rules, 2026 The IT Amendment Rules, 2026 The IT Amendment Rules, 2026
+Notified on 10th Feb, 2026 (with effect from 20th Feb), these new rules
+transition India from a “due diligence” based approach to an “active
+moderation” approach.
+Defining SGI: The government has come out with a very detailed legal
+definition of SGI (Synthetically Generated Information) in rule 2(wa).
+Audio-visual or audio/or video media, which is synthetically or
+algorithmically generated or manipulated so as to appear as audio-
+visual or audio or video media, is considered SGI. Note that text-only
+content (including ChatGPT content) is explicitly excluded.
+Mandatory metadata labeling: Hosts are required by law to embed
+cryptographically secured, permanent metadata provenance trackers
+(proof of synthesis) within the work itself. Significant Social Media
+Intermediaries (SSMIs) also must obtain user consent for hosting such
+content and technically verify such consent.
+19Biggest change: The new rules massively reduce the time for action by
+the platforms, removing any “technical impossibility” defense.
+General Unlawful Content: 72hrs → 36 hours.
+Court/Government Order for Unlawful Content: 36hrs → 3 hours.
+Non-Consensual Intimate Imagery / Deepfake Nudity: 24hrs → 2 hours.
+Grievance Officer Complaint Resolution: 15 days → 7 days.
+Penalty for non-compliance: The host becomes immediately liable on its
+own for any content that is unlawfully hosted. To provide them with a
+way out, the rules explicitly allow for automated algorithmic removal
+tools to be used without loss of safe harbor protection.
+
+--- PAGE 20 ---
+THE INDIAN SUMMIT
+FOUNDATIONAAWAAZ  2.0
+SECTION 5: STATUTORY BODIES
+The Bharatiya Nyaya Sanhita (BNS), 2023 The Bharatiya Nyaya Sanhita (BNS), 2023 The Bharatiya Nyaya Sanhita (BNS), 2023 The Bharatiya Nyaya Sanhita (BNS), 2023
+India’s modernised Criminal Code.
+Section 196 (Promoting Enmity): The primary charge for Hate Speech
+crimes. It criminalises statements—explicitly including those made
+through electronic communication—that promote disharmony, enmity,
+hatred, or ill-will between different groups on grounds of religion, race,
+place of birth, residence, language, caste, or community. Punishment:
+Up to 3 years in prison with a fine, which extends up to 5 years if the
+offence is committed in a place of worship or during a religious
+assembly.
+Section 353 (Public Mischief): The anti-misinformation statute that
+replaces IPC 505. It criminalises making, publishing, or circulating false
+information, rumours, or reports—explicitly including distribution
+through electronic means—intended to cause public panic, alarm, or
+communal incitement. Note: The statute does not contain a specific
+subsection or safe-harbor clause exempting influencers who retweet
+deepfakes in good faith. Punishment: Up to 3 years in prison, a fine, or
+both.
+Section 356 (Defamation): Modernised the crime of defamation by
+merging the old IPC definitions (IPC 499) and punishments (IPC 500) into
+a single clause, which explicitly encompasses digital and online
+defamation. It introduces community service as a new statutory
+alternative or addition to the traditional punishments. Punishment:
+Simple imprisonment for up to 2 years, a fine, community service, or a
+combination of these.
+ 
+20
+
+--- PAGE 21 ---
+THE INDIAN SUMMIT
+FOUNDATIONAAWAAZ  2.0
+SECTION 5: STATUTORY BODIES
+The Bharatiya Nagarik Suraksha Sanhita (BNSS), 2023 The Bharatiya Nagarik Suraksha Sanhita (BNSS), 2023 The Bharatiya Nagarik Suraksha Sanhita (BNSS), 2023 The Bharatiya Nagarik Suraksha Sanhita (BNSS), 2023
+Section 105 mandates upon police officers to apply continuous video and
+audio recording of the search of any data repository (server, laptop, or
+phone) to preclude evidence tampering during tech-sector raids
+SECTION 6: CURRENT REGULATORY CASES 
+The Fact-Check Unit (FCU) The Fact-Check Unit (FCU) The Fact-Check Unit (FCU) The Fact-Check Unit (FCU) 
+In 2023, under the proposed amendment to the IT Rules, the government
+sought to establish a centralized Fact-Check Unit (FCU) which would
+have the authority to identify any claim relating to "the business of the
+Central Government" as 'fake', 'false' or 'misleading', forcing platforms
+to take it down or suffer consequences
+As it stands now (as of August 2026), the Centre has appealed to the
+Supreme Court after the order from the Bombay High Court in September
+2024 that the FCU was unconstitutional. After condonation of delay, the
+appeal was restored in February 2026, and on March 10, 2026, Justice
+Surya Kant, in a Supreme Court bench hearing the plea, stated that it
+would refer the constitutional issues raised to a larger three-judge
+bench, to determine whether "the government has the power to take
+action on any speech, which it feels to be misleading or not" . The FCU
+controversy is a veritable constitutional crisis at the moment.
+ The Creator Economy & The Broadcasting Bill  The Creator Economy & The Broadcasting Bill  The Creator Economy & The Broadcasting Bill  The Creator Economy & The Broadcasting Bill 
+As early as 2024, the MIB has drafted the Broadcasting Services
+(Regulation) Bill which would seek to classify independent digital
+creators as broadcasters, requiring them to constitute internal “Content
+Evaluation Committees” to certify their content beforehand.
+In the face of an immense digital outcry, the government retreated.
+Consultations were officially closed in December 2025, and new draft
+regulations were released in June 2026, which make no mention of
+either OTT platforms or digital creators. 
+21
+
+--- PAGE 22 ---
+Delegate Bloc Core Objectives Strategic VulnerabilitiesLegislative Strategy &
+Tactics (Examples Only)
+Senior Government
+Officials (PM, Home
+Ministry)Preservation of national
+security. Stopping highly
+coordinated deepfake
+campaigns. Forcing
+foreign tech giants to
+respect domestic
+sovereignty.The highly public
+judicial defeat of the
+Fact-Check Unit (FCU);
+global accusations of
+"democratic backsliding."Push for adoption of the
+3 hour takedown rules.
+Leverage national
+security to justify
+breaking E2EE
+encryption for
+traceability as per Rule
+4(2).
+Ministry Bureaucrats
+(MeitY, MIB, I4C)Ensuring flawless
+procedural compliance.
+Defending the state's
+operational
+infrastructure (Sahyog
+Portal).The massive
+administrative backlog
+inside Grievance
+Appellate Committees
+(GACs).Aim for a blanket
+compliance with the
+permanent metadata
+labeling of SGI. Cite the X
+Corp (2025) ruling to
+assert that platforms do
+not have the
+fundamental rights to
+freedom of expression as
+per Article 19.
+Social Media Influencers,
+Independent CreatorsUncompromising
+protection of Article 19(1)
+(a) free speech. Total
+opposition to Content
+Evaluation Committees
+(CECs).Financial dependence on
+opaque Big Tech
+algorithms. Extreme
+susceptibility to cancel
+culture.Cite Kunal Kamra (FCU)
+to the effect that
+censorship is anti-
+constitutional and push
+for the setting up of an
+independent self-
+regulatory organization
+by the creators of digital
+content.
+Entrepreneurs, Sharks,
+and Big TechPreservation of Section
+79 Safe Harbor.
+Achieving regulatory
+certainty to keep
+venture capital flowing
+into India.Public backlash over
+algorithmic bias and
+failing to stop deepfake
+scams. Crippled by the
+Karnataka HC ruling
+denying them Article 19
+rights.Use the privacy
+provisions of the DPDPA
+2023 to resist decrypting
+private messages. Push
+for an EU style risk
+based approach as per
+the Data Integrity Act.
+Bollywood Celebrities,
+Directors, ProducersStopping digital piracy,
+destroying algorithmic
+online boycotts (cancel
+culture), and preventing
+deepfake defamation.High susceptibility to
+automated bot mobs.
+Historical fear of state
+censorship boards
+(CBFC).Stand by the government
+on strict enforcement of
+the 2 hour takedown
+rules for deepfakes.
+Argue for a more
+vigorous use of BNS
+Section 356 to penalize
+online mobs.THE INDIAN SUMMIT
+FOUNDATIONAAWAAZ  2.0
+SECTION 7: STAKEHOLDERS IN THE
+COMMITTEE
+22
+
+--- PAGE 23 ---
+THE INDIAN SUMMIT
+FOUNDATIONAAWAAZ  2.0
+SECTION 8: RESEARCH METHODOLOGY
+1. SCC Online / Manupatra / Indian Kanoon: Use them to read the exact text and judicial
+reasoning of Supreme Court and High Court judgments. Read the judge's actual
+words.
+2. LiveLaw & Bar and Bench: Essential legal journalism portals for tracking active
+courtroom exchanges (like the ongoing FCU hearings).
+3. The Gazette of India (egazette.nic.in): Go here to read the exact, original wording of
+the IT Amendment Rules, 2026, and the BNS, 2023.
+4. Ministry Websites (MeitY, MIB, MHA): Check for consultation papers on the
+upcoming Digital India Act.
+5. PRS Legislative Research: Highly reliable think-tank producing plain-language
+summaries of complex bills.
+6. Reuters India: Neutral wire-service coverage of Indian political and policy
+developments. Use it for recent events that postdate your background guide and for
+international perspectives on domestic issues.
+7. The Hindu: National newspaper editorials are accepted as contextual sources in
+Indian committee debate. Search the agenda topic to find well-argued perspectives
+from across the political spectrum.
+SECTION 9: ESSENTIAL ARTICLES
+Article 14 (Right to Equality): “The State shall not deny to any person
+equality before the law or the equal protection of the laws within the
+territory of India.” (often used to invalidate discriminatory laws, as in
+the case of Bombay HC striking down the Fact-Check Unit)
+Article 19(1)(a) (Freedom of Speech and Expression): Freedom of speech
+and expression for all citizens. This is the bedrock of this committee’s
+very existence.
+23
+
+--- PAGE 24 ---
+THE INDIAN SUMMIT
+FOUNDATIONAAWAAZ  2.0
+SECTION 9: ESSENTIAL ARTICLES
+Article 19(1)(g) (Right to Practice any Profession): Guarantees citizens
+the right to practice any profession, or to carry on any occupation, trade
+or business. (Highly relevant for the Influencer and Creator Economy
+blocs arguing that sweeping censorship laws destroy their digital
+livelihood).
+Article 19(2) (Reasonable Restrictions): The exclusive, exhaustive list of
+grounds on which the state can restrict free speech (Sovereignty and
+integrity of India, security of the State, friendly relations with foreign
+States, public order, decency or morality, contempt of court, defamation,
+or incitement to an offence).
+Article 21 (Protection of Life and Personal Liberty): "No person shall be
+deprived of his life or personal liberty except according to procedure
+established by law." (In the digital age, the Supreme Court has
+interpreted this to include the fundamental Right to Privacy).
+Article 32 & 226 (Writ Jurisdiction): Allows citizens to directly approach
+the Supreme Court (Art. 32) or High Courts (Art. 226) for the
+enforcement of their fundamental rights.
+SECTION 10: GLOSSARY
+Algorithmic Amplification: The automated process by which a platform’s
+algorithm promotes certain content, in order to maximize the amount of
+time a user spends engaging with it. This can lead to an increase in
+polarizing content, or content that spreads hate
+BNS: Bharatiya Nyaya Sanhita, which is the new criminal code that
+replaces the Indian Penal Code (IPC).
+BNSS: Bharatiya Nagarik Suraksha Sanhita, which is the new criminal
+procedure code that replaces the CrPC.
+24
+
+--- PAGE 25 ---
+THE INDIAN SUMMIT
+FOUNDATIONAAWAAZ  2.0
+SECTION 10: GLOSSARY
+Content Evaluation Committee (CEC): One of the proposed censorship
+mechanisms in the defunct 2024 Broadcasting Bill, which was
+vociferously opposed by independent content creators
+.
+Coordinated Inauthentic Behavior (CIB): The practice of using multiple
+bots or fake accounts to push a coordinated narrative around trending
+topics, and to deceive users about who is behind particular digital
+campaigns.
+Digital India Act (DIA): The proposed digital governance law that would
+replace the IT Act, 2000, and introduce new ‘systemic risk’ categories
+akin to the EU’s Digital Governance Act.
+DPDPA (Digital Personal Data Protection Act, 2023): India’s new personal
+data protection law, which lays great emphasis on the principle of
+purpose limitation.
+End-to-End Encryption (E2EE): A type of encryption where only the
+communication parties see the content of a message, and the service
+provider (WhatsApp, in the case of WhatsApp) cannot.
+Grievance Appellate Committee (GAC): An appellate authority that hears
+appeals from users against the decisions of an intermediary. The GACs
+will be set up by the Government for adjudicating complaints against
+digital platforms.
+Horizontal Application of Rights: The principle – upheld in the landmark
+2023 case of Kaushal Kishor v. State of U.P.– that rights guaranteed by
+the Constitution can be enforced against both the state and private
+entities.
+Intermediary: A term that refers to entities such as social media
+platforms that host or relay information on behalf of third parties.
+25
+
+--- PAGE 26 ---
+THE INDIAN SUMMIT
+FOUNDATIONAAWAAZ  2.0
+SECTION 10: GLOSSARY
+Over-The-Top (OTT) Platforms: Online streaming services that are
+distributed over the Internet, rather than through traditional television
+broadcasting. Examples include Netflix.
+Safe Harbor (Section 79): The legal shield provided to digital
+intermediaries, that protects them against being sued for copyright
+infringement, defamation, or other violations of law that are committed
+using their platforms. In exchange for this immunity, intermediaries
+are obligated to take down user generated content as and when required
+by law.
+Sahyog Portal: The portal set up by I4C where law enforcement agencies
+can submit takedown requests to intermediaries directly, effectively
+by-passing the judicial process.
+Significant Social Media Intermediary (SSMI): One of the new
+classifications of social media platforms under the IT (Amendment) Act,
+2021, that requires them to comply with a special set of norms.
+Synthetically Generated Information (SGI): According to Rule 2(wa) of the
+IT Rules 2026, any audio, video or audio-visual content that is created
+using an algorithm and has the appearance of being created by a human
+is considered synthetically generated information, with limited
+exceptions for text. It must be noted that SGI does not explicitly refer to
+text generated by algorithms.
+Traceability (Rule 4(2)): A provision that obliges encrypted messaging
+platforms to trace a message back to its originator, if the intermediary
+receives a court order asking them to do so. This has been a much
+debated provision in the context of encryption and privacy.
+NOTE: THE BACKGROUND GUIDE MUST NOT BE DIRECTLY QUOTED DURING
+SPEECHES. HOWEVER, PARTICIPANTS MAY USE IT FOR RESEARCH AND
+STUDY, THOUGH THE PROVIDED DATA SHOULD NOT BE SOLELY RELIED
+UPON FOR ABSOLUTE ACCURACY.
+26
+
+--- PAGE 27 ---
+A
+A
+a
+i
+s
+ALL INDIA STAKEHOLDER’S MEET
+THANK YOU.
+THE INDIAN SUMMIT
+FOUNDATIONAAWAAZ 2.0
+19
+09
+01
+M
+13
+A
+
+

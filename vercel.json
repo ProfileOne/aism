@@ -1,0 +1,16 @@
+{
+  "rewrites": [
+    {
+      "source": "/aism/api/:path*",
+      "destination": "https://aism-api.onrender.com/api/:path*"
+    },
+    {
+      "source": "/aism/:path*",
+      "destination": "/:path*"
+    },
+    {
+      "source": "/(.*)",
+      "destination": "/aism/index.html"
+    }
+  ]
+}
