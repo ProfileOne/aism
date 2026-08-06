@@ -11,6 +11,10 @@
     {
       "source": "/aism",
       "destination": "/aism/index.html"
+    },
+    {
+      "source": "/(.*)",
+      "destination": "/aism/index.html"
     }
   ]
 }
