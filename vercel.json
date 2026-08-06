@@ -5,11 +5,11 @@
       "destination": "https://aism-api.onrender.com/api/:path*"
     },
     {
-      "source": "/aism/:path*",
-      "destination": "/:path*"
+      "source": "/aism/(.*)",
+      "destination": "/aism/$1"
     },
     {
-      "source": "/(.*)",
+      "source": "/aism",
       "destination": "/aism/index.html"
     }
   ]
