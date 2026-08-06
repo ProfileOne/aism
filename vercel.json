@@ -1,7 +1,7 @@
 {
   "rewrites": [
     {
-      "source": "/aism/api/:path*",
+      "source": "/api/:path*",
       "destination": "https://aism-vc3k.onrender.com/api/:path*"
     },
     {
