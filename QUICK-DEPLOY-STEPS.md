@@ -207,6 +207,7 @@ Visit: `https://dakshwadekar.com/aism/`
 
 Your AISM Portal is now live at:
 - **Frontend**: https://dakshwadekar.com/aism/
+- **Backend**: https://aism-vc3k.onrender.com (your actual Render URL)
 - **Backend**: https://aism-api.onrender.com
 - **Database**: Render PostgreSQL (free tier)
 
